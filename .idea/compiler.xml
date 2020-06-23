@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-cloud-provider" />
+        <module name="test-cloud-provider-8003" />
+        <module name="test-cloud-consumer" />
+        <module name="test-cloud-provider-8002" />
+        <module name="test-cloud-eureka" />
+        <module name="test-cloud-eureka-8763" />
+        <module name="test-cloud-eureka-8762" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-cloud" target="1.5" />
+      <module name="test-cloud-consumer" target="1.5" />
+      <module name="test-cloud-eureka" target="1.5" />
+      <module name="test-cloud-eureka-8762" target="1.5" />
+      <module name="test-cloud-eureka-8763" target="1.5" />
+      <module name="test-cloud-provider" target="1.5" />
+      <module name="test-cloud-provider-8002" target="1.5" />
+      <module name="test-cloud-provider-8003" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+server:
+  port: 8001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka8761.com:8761/eureka/,http://eureka8762.com:8762/eureka/,http://eureka8763.com:8763/eureka/
+  instance:
+    instance-id: test-cloud-provider8001
+    prefer-ip-address: true
+spring:
+  application:
+    name: test-cloud-provider
+#需要引入actuator
+info:
+  app.name: testCloudProvider
+  company.name: www.annie.com
+  build.artifactId: ${project.artifactId}
+  build.version: ${project.version}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/test-cloud.iml" filepath="$PROJECT_DIR$/.idea/test-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-consumer/test-cloud-consumer.iml" filepath="$PROJECT_DIR$/test-cloud-consumer/test-cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka/test-cloud-eureka.iml" filepath="$PROJECT_DIR$/test-cloud-eureka/test-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-8762/test-cloud-eureka-8762.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-8762/test-cloud-eureka-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-8763/test-cloud-eureka-8763.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-8763/test-cloud-eureka-8763.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-provider/test-cloud-provider.iml" filepath="$PROJECT_DIR$/test-cloud-provider/test-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-provider-8002/test-cloud-provider-8002.iml" filepath="$PROJECT_DIR$/test-cloud-provider-8002/test-cloud-provider-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-provider-8003/test-cloud-provider-8003.iml" filepath="$PROJECT_DIR$/test-cloud-provider-8003/test-cloud-provider-8003.iml" />
+    </modules>
+  </component>
+</project>
