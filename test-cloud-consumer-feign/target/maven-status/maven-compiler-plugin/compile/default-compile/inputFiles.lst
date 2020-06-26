@@ -1,0 +1,6 @@
+/Users/tiger/Documents/workSpace/github/spring-cloud-demo/test-cloud-consumer-feign/src/main/java/cloud/consumer/config/FeignBeanFactoryPostProcessor.java
+/Users/tiger/Documents/workSpace/github/spring-cloud-demo/test-cloud-consumer-feign/src/main/java/cloud/consumer/FeignConsumerApplication.java
+/Users/tiger/Documents/workSpace/github/spring-cloud-demo/test-cloud-consumer-feign/src/main/java/cloud/consumer/service/impl/ProviderClientFallBackFactory.java
+/Users/tiger/Documents/workSpace/github/spring-cloud-demo/test-cloud-consumer-feign/src/main/java/cloud/consumer/service/impl/HystrixProviderClient.java
+/Users/tiger/Documents/workSpace/github/spring-cloud-demo/test-cloud-consumer-feign/src/main/java/cloud/consumer/controller/HiController.java
+/Users/tiger/Documents/workSpace/github/spring-cloud-demo/test-cloud-consumer-feign/src/main/java/cloud/consumer/service/ProviderClient.java

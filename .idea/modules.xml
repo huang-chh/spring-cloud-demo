@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/test-cloud.iml" filepath="$PROJECT_DIR$/.idea/test-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-consumer/test-cloud-consumer.iml" filepath="$PROJECT_DIR$/test-cloud-consumer/test-cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-cloud-consumer-feign/test-cloud-consumer-feign.iml" filepath="$PROJECT_DIR$/test-cloud-consumer-feign/test-cloud-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka/test-cloud-eureka.iml" filepath="$PROJECT_DIR$/test-cloud-eureka/test-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-8762/test-cloud-eureka-8762.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-8762/test-cloud-eureka-8762.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-cloud-eureka-8763/test-cloud-eureka-8763.iml" filepath="$PROJECT_DIR$/test-cloud-eureka-8763/test-cloud-eureka-8763.iml" />

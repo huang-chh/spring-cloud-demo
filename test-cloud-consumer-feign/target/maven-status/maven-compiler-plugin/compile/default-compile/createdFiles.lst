@@ -1,0 +1,3 @@
+cloud/consumer/service/ProviderClient.class
+cloud/consumer/FeignConsumerApplication.class
+cloud/consumer/controller/HiController.class
